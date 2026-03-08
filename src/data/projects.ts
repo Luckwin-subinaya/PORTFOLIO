@@ -83,6 +83,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       " Designed and developed a gym website with admin functionalities to add, edit, and manage members and to generate an invoice and automate it to send it to members’ WhatsApp",
     sourceCodeHref: "https://github.com/Luckwin-subinaya/gym.git",
+    liveWebsiteHref: "https://vstrongfitness.in/",
   },
   {
     name: "AI Crop Prediction",
@@ -95,7 +96,6 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       "Crop Recommendations: ML model suggests best crops based on soil/environmental data.It is a small Flask-based project that recommends crops, fertilizers and pesticides using trained models and CSV datasets.",
     sourceCodeHref: "https://github.com/Luckwin-subinaya/crop-prediction.git",
-    liveWebsiteHref: "https://vstrongfitness.in/",
   },
   {
     name: "Quick Rent",
