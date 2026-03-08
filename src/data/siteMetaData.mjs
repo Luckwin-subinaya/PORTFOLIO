@@ -1,0 +1,17 @@
+export const siteMetadata = {
+  title: "Luckwin Subinaya Portfolio",
+  author: "Luckwin Subinaya",
+  headerTitle: "Luckwin Subinaya",
+  description: "Full Stack Developer",
+  language: "en-us",
+  theme: "light",
+  siteName: "Luckwin Subinaya Portfolio",
+  siteUrl: "https://luckwin-subinaya.vercel.app",
+  siteRepo: "https://github.com/Luckwin-subinaya/portfolio-v2",
+  siteLogo: "/static/logo.png",
+  email: "luckwinsubinayars@gmail.com",
+  github: "https://github.com/Luckwin-subinaya",
+  linkedin: "https://www.linkedin.com/in/luckwin-subinaya-6a1497284",
+  locale: "en-US",
+  //googleSiteVerification: "_YJlO90eSoye2AQOhbkRAzNbejzCGiTgAD4RNR3NtHc",
+};
