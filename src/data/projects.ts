@@ -73,6 +73,18 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
   
   },
   {
+    name: "V-Strong Gym-website",
+    favicon: "/images/projects/gym2.png",
+    imageUrl: [
+      "/images/projects/gym2.png",
+      "/images/projects/gym1.png",
+      "/images/projects/gym3.png",
+    ],
+    description:
+      " Designed and developed a gym website with admin functionalities to add, edit, and manage members and to generate an invoice and automate it to send it to members’ WhatsApp",
+    sourceCodeHref: "https://github.com/Luckwin-subinaya/gym.git",
+  },
+  {
     name: "AI Crop Prediction",
     favicon: "/images/projects/crophome.png",
     imageUrl: [

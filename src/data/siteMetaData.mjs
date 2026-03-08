@@ -6,7 +6,7 @@ export const siteMetadata = {
   language: "en-us",
   theme: "light",
   siteName: "Luckwin Subinaya Portfolio",
-  siteUrl: "https://luckwin-subinaya.vercel.app",
+  siteUrl: "",
   siteRepo: "https://github.com/Luckwin-subinaya/portfolio-v2",
   siteLogo: "/static/logo.png",
   email: "luckwinsubinayars@gmail.com",
