@@ -70,7 +70,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "A client project resource management application. Made using Nextjs, Tailwindcss and Monaco Editor.",
     sourceCodeHref:
       "https://github.com/Luckwin-subinaya/Client-Project_Resource.git",
-    //liveWebsiteHref: "https://jsontree.vercel.app",
+  
   },
   {
     name: "AI Crop Prediction",
@@ -83,8 +83,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       "Crop Recommendations: ML model suggests best crops based on soil/environmental data.It is a small Flask-based project that recommends crops, fertilizers and pesticides using trained models and CSV datasets.",
     sourceCodeHref: "https://github.com/Luckwin-subinaya/crop-prediction.git",
-    //liveWebsiteHref: "https://kannban-board.vercel.app",
-  },
+   
   {
     name: "Quick Rent",
     favicon: "/images/projects/gadgetlogo.png",
