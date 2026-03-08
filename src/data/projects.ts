@@ -83,7 +83,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       "Crop Recommendations: ML model suggests best crops based on soil/environmental data.It is a small Flask-based project that recommends crops, fertilizers and pesticides using trained models and CSV datasets.",
     sourceCodeHref: "https://github.com/Luckwin-subinaya/crop-prediction.git",
-   
+  },
   {
     name: "Quick Rent",
     favicon: "/images/projects/gadgetlogo.png",
