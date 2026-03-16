@@ -70,7 +70,6 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "A client project resource management application. Made using Nextjs, Tailwindcss and Monaco Editor.",
     sourceCodeHref:
       "https://github.com/Luckwin-subinaya/Client-Project_Resource.git",
-  
   },
   {
     name: "V-Strong Gym-website",

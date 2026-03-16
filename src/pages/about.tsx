@@ -51,7 +51,7 @@ export default function About() {
 
           <p className="mt-6 text-base md:text-xl">
             <a
-              href="/Luckwin_Subinaya_Resume.pdf"
+              href="/Luckwin_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="font-semibold text-accent underline underline-offset-2 hover:text-accent/70"
