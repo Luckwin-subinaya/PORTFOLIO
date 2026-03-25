@@ -1,4 +1,7 @@
-## Portfolio v2
+## Portfolio 
+
+<img width="1894" height="868" alt="image" src="https://github.com/user-attachments/assets/ff3b3702-0838-472b-af00-472f7129482b" />
+
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS. This project showcases your skills, projects, certifications, and experience with smooth animations and a clean UI.
 
