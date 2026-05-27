@@ -6,6 +6,18 @@
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS. This project showcases your skills, projects, certifications, and experience with smooth animations and a clean UI.
 
 ---
+## Overview
+
+This portfolio represents my journey as a developer passionate about:
+
+Full-Stack Web Development
+Artificial Intelligence
+UI/UX Design
+Real-Time Applications
+Problem Solving
+Innovation & Hackathons
+
+The website is designed with a clean modern UI, smooth animations, responsive layouts, and project-focused storytelling to create a professional digital presence.
 
 ## Overview
 
@@ -34,7 +46,8 @@ The website is designed with a clean modern UI, smooth animations, responsive la
 ---
 
 ### Sections Included
- ## Hero Section
+
+## Hero Section
 Introduction
 Developer branding
 CTA buttons
@@ -68,7 +81,10 @@ GitHub
 LinkedIn
 Social media links
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f36629e (Normalize line endings and add .gitattributes)
 ### 📁 Project Structure
 
 ```

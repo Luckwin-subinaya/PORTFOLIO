@@ -10,7 +10,7 @@ export default function SkillPill(props: SkillPillProps) {
   const { name, icon: Icon } = props;
   return (
     <span className="inline-flex items-center gap-2 text-sm sm:text-base md:text-lg">
-      <Icon className="h-5 w-5 sm:h-8 sm:w-8" />
+      <Icon className="h-4 w-4 sm:h-6 sm:w-6" />
       <span className="font-medium">{name}</span>
     </span>
   );

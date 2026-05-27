@@ -46,7 +46,7 @@ export default function LandingHero() {
               </span>
             </FadeUp>
             <FadeUp key="description" duration={0.6} delay={0.2}>
-              <div className="mt-8 max-w-3xl text-base font-semibold text-zinc-900 dark:text-zinc-200 sm:text-base md:text-xl">
+              <div className="mt-8 max-w-3xl text-base font-medium text-zinc-900 dark:text-zinc-200 sm:text-base md:text-xl">
                 <p>{`Creating visually polished, high-performance web applications that blend engineering precision with modern design.`}</p>
                 <p>{`Focused on building scalable, intuitive digital experiences.`}</p>
                 <p>{`Skilled in ReactJS, NextJS, NodeJS, ExpressJS, and MongoDB.`}</p>

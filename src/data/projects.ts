@@ -7,7 +7,7 @@ export const PROJECT_SHOWCASE: ProjectShowcaseListItem[] = [
     index: 0,
     title: "Client-Project-Resource",
     href: "/projects",
-    tags: ["Nextjs", "Tailwindcss", "Monaco Editor", "Vercel"],
+    tags: ["Nextjs", "Tailwindcss", "Nodejs", "MongoDB"],
     image: {
       LIGHT: "/images/projects/homepage.png",
       DARK: "/images/projects/homepage.png",
@@ -28,7 +28,6 @@ export const PROJECT_SHOWCASE: ProjectShowcaseListItem[] = [
       "Machine Learning",
       "CNN",
       "Random Forest",
-      "SVM",
       "Pandas",
     ],
     image: {
@@ -67,7 +66,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "/images/projects/homepage.png",
     ],
     description:
-      "A client project resource management application. Made using Nextjs, Tailwindcss and Monaco Editor.",
+      "A client project resource management application. Made using Nextjs, Tailwindcss, MongoDB and Nodejs.",
     sourceCodeHref:
       "https://github.com/Luckwin-subinaya/Client-Project_Resource.git",
   },

@@ -1,5 +1,5 @@
 import { SiExpress, SiPrisma, SiNextdotjs } from "react-icons/si";
-import { FramerMotionIcon, ReactRouterDomIcon } from "@/components/icons";
+import { ReactRouterDomIcon } from "@/components/icons";
 import { type SkillsShowcaseProps } from "@/components/skills/skills-showcase";
 
 // Languages
@@ -14,7 +14,6 @@ import java from "@/public/icons/java.svg";
 // Libraries
 import ReactjsSvg from "@/public/icons/reactjs.svg";
 
-import ReduxSvg from "@/public/icons/redux.svg";
 import TailwindcssSvg from "@/public/icons/tailwindcss.svg";
 import MuiSvg from "@/public/icons/mui.svg";
 import ViteSvg from "@/public/icons/vite.svg";
@@ -28,7 +27,7 @@ import sql from "@/public/icons/sql.svg";
 
 // Tools and Tech
 import GitSvg from "@/public/icons/git.svg";
-import swagger from "@/public/icons/swagger.svg";
+import Github from "@/public/icons/github.svg";
 import PostmanSvg from "@/public/icons/postman.svg";
 
 export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
@@ -91,11 +90,6 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
         percentage: 80,
       },
       {
-        name: "Redux",
-        icon: ReduxSvg,
-        percentage: 75,
-      },
-      {
         name: "Tailwindcss",
         icon: TailwindcssSvg,
         percentage: 88,
@@ -104,11 +98,6 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
         name: "MUI",
         icon: MuiSvg,
         percentage: 70,
-      },
-      {
-        name: "Framer motion",
-        icon: FramerMotionIcon,
-        percentage: 65,
       },
       {
         name: "Vite",
@@ -161,9 +150,9 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
         percentage: 90,
       },
       {
-        name: "Swagger",
-        icon: swagger,
-        percentage: 60,
+        name: "GitHub",
+        icon: Github,
+        percentage: 90,
       },
       {
         name: "Postman",
